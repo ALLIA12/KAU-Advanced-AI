@@ -13,6 +13,10 @@ that will help you learn the basics about artificial intelligence.
 |:------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------:|:------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:
 | Linear Regression Basics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RO4NO8q9oceZqDzMGeY4PAiTk2cBr765?usp=sharing)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dXVKfOFcYgfeNnwY077xFQilKqEcbWm_?usp=sharing) | [Day 1](./Lectures/Day-1.pdf) | [Day 1](./Lectures/Day-1.pptx) | [Exercise 1](./Exercises/day1_Linear_Regression_Basics.ipynb) [Solution](./Solutions/day1_Linear_Regression_Basics.ipynb)  [Review Session Notebook](./Exercises/LinearRegression.ipynb) 
 
+## Recordings:
+
+- [Fine Tuning](https://lyraedigital-my.sharepoint.com/:v:/g/personal/ali_mohammad_ga-universe_com/Ea9iWYK8vJ5GlDuA7R4cuJ0BAJ8m4Wak7zfl9jO4U254eQ?e=RrJqm4)
+
 ## Cool links
 
 - [Stanford Lecture: Detection and Segmentation](https://www.youtube.com/watch?v=nDPWywWRIRo)
