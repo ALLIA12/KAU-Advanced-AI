@@ -9,9 +9,9 @@ that will help you learn the basics about artificial intelligence.
 
 ## Materials (will be updated daily)
 
-|          Topic           |                                                                                                                                                              Exercise                                                                                                                                                               |          Slides PDF           |          Slides PPTX           |                                                                                   Solutions                                                                                   
-|:------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------:|:------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:
-| Linear Regression Basics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Dyrj86y3ENO2xxS0YMo5oqtzenl20DXO)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DxgGmHlY0h1Vj4S34kUxuylbJZpiX_r-) | [Day 1](./Lectures/Day-1.pdf) | [Day 1](./Lectures/Day-1.pptx) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1eUcW2BpZ68NpxvytWgVv2xKEDGPpYPkM/view?usp=sharing) 
+|          Topic           |  Exercise        |                     Solutions       |                    
+|---|---|---|
+| CNNs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Dyrj86y3ENO2xxS0YMo5oqtzenl20DXO)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DxgGmHlY0h1Vj4S34kUxuylbJZpiX_r-) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1eUcW2BpZ68NpxvytWgVv2xKEDGPpYPkM/view?usp=sharing)  |
 
 ## Recordings:
 
