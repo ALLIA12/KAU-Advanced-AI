@@ -20,6 +20,7 @@ that will help you learn the basics about artificial intelligence.
 
 - [Fine Tuning](https://lyraedigital-my.sharepoint.com/:v:/g/personal/ali_mohammad_ga-universe_com/Ea9iWYK8vJ5GlDuA7R4cuJ0BAJ8m4Wak7zfl9jO4U254eQ?e=RrJqm4)
 - [Fine tuning -2](https://youtu.be/Rt3t4PVI-kM)
+- [Data Augmentation](https://youtu.be/bG0-5dMEUHk)
 - [Quick Recap](https://www.youtube.com/watch?v=MnZo74VdujA)
 
 ## Cool links
