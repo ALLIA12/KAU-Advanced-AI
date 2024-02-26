@@ -12,6 +12,10 @@ that will help you learn the basics about artificial intelligence.
 |          Topic           |  Exercise        |                     Solutions       |                    
 |---|---|---|
 | CNNs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Dyrj86y3ENO2xxS0YMo5oqtzenl20DXO)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DxgGmHlY0h1Vj4S34kUxuylbJZpiX_r-) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1eUcW2BpZ68NpxvytWgVv2xKEDGPpYPkM/view?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1nGVj11gp4QNyRDSnfwVnbX1vl_qeUhwX/view?usp=sharing) |
+| Dataloaders | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Dyrj86y3ENO2xxS0YMo5oqtzenl20DXO)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DxgGmHlY0h1Vj4S34kUxuylbJZpiX_r-) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1n-9D4PwPrvwLVs4G4dm8RYxC6AB7Y62f/view?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DLV5_yK1skGTgGzUmwNPQ0QYRoY8BBK9?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1veQPe68flPxVEpngxDVUHdV3NPrmPuD4/view?usp=sharing)|
+ |
+
+
 
 ## Recordings:
 
