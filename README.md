@@ -25,6 +25,7 @@ that will help you learn the basics about artificial intelligence.
 - [Faster R-CNN](https://lyraedigital-my.sharepoint.com/:v:/g/personal/ali_mohammad_ga-universe_com/EcYhNqetlRxEp5DYBS_Ff-EBxW5zUhvMoj9zb2AVajQ9AA?e=4nNWIg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - [Image Segmentation](https://youtu.be/5NHcZJb6-cs)
 - [Datasets and data loaders](https://youtu.be/gGB4-Zv9g7c)
+- [Revision Notebook (CNNs, Custom Datasets and Finetuning)](https://drive.google.com/file/d/1E1b9V_5xxfAJRPKD0ZrEdtCF1MkD16g6/view?usp=sharing)
   
 ## Cool links
 
