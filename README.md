@@ -22,6 +22,7 @@ that will help you learn the basics about artificial intelligence.
 - [Data Augmentation](https://youtu.be/bG0-5dMEUHk)
 - [Quick Recap](https://www.youtube.com/watch?v=MnZo74VdujA)
 - [Faster R-CNN](https://lyraedigital-my.sharepoint.com/:v:/g/personal/ali_mohammad_ga-universe_com/EcYhNqetlRxEp5DYBS_Ff-EBxW5zUhvMoj9zb2AVajQ9AA?e=4nNWIg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- [Image Segmentation](https://youtu.be/5NHcZJb6-cs)
 
 ## Cool links
 
